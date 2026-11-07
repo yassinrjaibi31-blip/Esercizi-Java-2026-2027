@@ -56,7 +56,7 @@ public class Dipendente {
     }
 
     public void setAnni(int anni) {
-        this.anni = anni + 1;
+        this.anni = anni;
     }
 
     public boolean getTempoPieno() {
