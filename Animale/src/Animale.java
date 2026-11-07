@@ -14,43 +14,43 @@ public class Animale {
         this.chilogrammi = chilogrammi;
     }
 
-    public String GetNome() {
+    public String getNome() {
         return this.nome;
     }
 
-    public void SetNome(String nome) {
+    public void setNome(String nome) {
         this.nome = nome;
     }
 
-    public String GetSpecie() {
+    public String getSpecie() {
         return this.specie;
     }
 
-    public void SetSpecie(String specie) {
+    public void setSpecie(String specie) {
         this.specie = specie;
     }
 
-    public String GetRazza() {
+    public String getRazza() {
         return this.razza;
     }
 
-    public void SetRazza(String razza) {
+    public void setRazza(String razza) {
         this.razza = razza;
     }
 
-    public int GetEta() {
+    public int getEta() {
         return this.eta;
     }
 
-    public void SetEta(int eta) {
+    public void setEta(int eta) {
         this.eta = eta;
     }
 
-    public float GetChilogrammi() {
+    public float getChilogrammi() {
         return this.eta;
     }
 
-    public void SetChilogrammi(float chilogrammi) {
+    public void setChilogrammi(float chilogrammi) {
         this.chilogrammi = chilogrammi;
     }
 }
