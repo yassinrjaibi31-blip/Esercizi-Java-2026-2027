@@ -15,43 +15,42 @@ public class Automobile {
         this.prezzo = prezzo;
     }
 
-    public String GetMarca() {
+    public String getMarca() {
         return this.marca;
     }
 
-    public void SetMarca(String marca) {
+    public void setMarca(String marca) {
         this.marca = marca;
     }
 
-    public String GetTarga() {
+    public String getTarga() {
         return this.targa;
     }
 
-    public void SetTarga(String targa) {
+    public void setTarga(String targa) {
         this.targa = targa;
     }
 
-    public int GetAnno() {
+    public int getAnno() {
         return this.anno;
     }
 
-    public void SetAnno(int anno) {
+    public void setAnno(int anno) {
         this.anno = anno;
     }
 
-    public float GetChilometripercorsi() {
+    public float getChilometripercorsi() {
         return this.chilometripercorsi;
     }
 
-    public void SetChilometripercorsi(float chilometripercorsi) {
+    public void setChilometripercorsi(float chilometripercorsi) {
         this.chilometripercorsi = chilometripercorsi;
     }
 
-    public int Getprezzo() {
+    public int getprezzo() {
         return this.prezzo;
     }
-
-    public void setAnno(int prezzo) {
+    public void setprezzo(int prezzo) {
         this.prezzo = prezzo;
     }
 }
