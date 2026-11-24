@@ -19,5 +19,7 @@ public class DadoTre {
         Ellipse g = new Ellipse(250, 250, 100, 100);
         g.setColor(Color.BLACK);
         g.fill();
+
+
     }
 }
