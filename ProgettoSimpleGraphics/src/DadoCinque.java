@@ -13,7 +13,7 @@ public class DadoCinque {
         b.fill();
 
         Ellipse v = new Ellipse(480, 480, 100, 100);
-        v.setColor(Color.BLACK);
+        v.setColor(Color.GREEN);
         v.fill();
 
         Ellipse c = new Ellipse(480, 20, 100, 100);
