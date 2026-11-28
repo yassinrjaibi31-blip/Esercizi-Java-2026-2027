@@ -20,9 +20,9 @@ public class Casetta {
         f2.fill();
 
         // Finestra sinistra
-        Rectangle d3  = new Rectangle(220, 310,  45, 45);
-        d3.setColor(Color.BLUE);
-        d3.fill();
+        Rectangle c3 = new Rectangle(220, 300, 45, 45);
+        c3.setColor(Color.BLUE);
+        c3.fill();
 
         }
 }
